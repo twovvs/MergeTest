@@ -1,0 +1,10 @@
+C:\Users\Andy\Source\Repos\MergeTest\MergeTest\bin\Debug\MergeTest.dacpac
+C:\Users\Andy\Source\Repos\MergeTest\MergeTest\bin\Debug\MergeTest.dll
+C:\Users\Andy\Source\Repos\MergeTest\MergeTest\bin\Debug\MergeTest.pdb
+C:\Users\Andy\Source\Repos\MergeTest\MergeTest\obj\Debug\MergeTest.sqlprojAssemblyReference.cache
+C:\Users\Andy\Source\Repos\MergeTest\MergeTest\obj\Debug\Model.xml
+C:\Users\Andy\Source\Repos\MergeTest\MergeTest\obj\Debug\refactor.xml
+C:\Users\Andy\Source\Repos\MergeTest\MergeTest\obj\Debug\postdeploy.sql
+C:\Users\Andy\Source\Repos\MergeTest\MergeTest\obj\Debug\predeploy.sql
+C:\Users\Andy\Source\Repos\MergeTest\MergeTest\obj\Debug\MergeTest.dll
+C:\Users\Andy\Source\Repos\MergeTest\MergeTest\obj\Debug\MergeTest.pdb
